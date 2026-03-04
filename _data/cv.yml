@@ -12,13 +12,13 @@ cv:
 
   social_networks:
     - network: Google Scholar
-      username: your_scholar_id_or_slug
+      username: mHSM6DUAAAAJ
     - network: ORCID
-      username: 0000-0000-0000-0000
+      username: 0000-0003-3457-3301
     - network: GitHub
       username: a-trioux
     - network: LinkedIn
-      username: your-linkedin-iD
+      username: anthony-trioux
 
   address:
     street: "No.2 Taibai South Rd"
