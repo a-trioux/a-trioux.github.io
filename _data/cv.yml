@@ -142,8 +142,7 @@ cv:
 
     Selected publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
-Publications:
-  - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
+    - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
     authors:
       - "Anthony TRIOUX"
       - "Wei Zhang"
@@ -154,7 +153,7 @@ Publications:
     url: ""
     summary: ""
 
-  - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
+    - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
     authors:
       - "Jan Zádník"
       - "Michel Kieffer"
@@ -166,7 +165,7 @@ Publications:
     url: ""
     summary: "Vol. 24, No. 2, pp. 1149–1162."
 
-  - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
+    - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
     authors:
       - "Anthony TRIOUX"
       - "Wei Zhang"
@@ -177,7 +176,7 @@ Publications:
     url: ""
     summary: "pp. 1–6."
 
-  - title: "Subjective Fidelity Assessment of Audio- and Video-Driven Talking Head Generation Methods"
+    - title: "Subjective Fidelity Assessment of Audio- and Video-Driven Talking Head Generation Methods"
     authors:
       - "Anthony TRIOUX"
       - "Yu Gao"
@@ -190,7 +189,7 @@ Publications:
     url: ""
     summary: ""
 
-  - title: "Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study"
+    - title: "Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study"
     authors:
       - "Anthony TRIOUX"
       - "Wei Zhang"
