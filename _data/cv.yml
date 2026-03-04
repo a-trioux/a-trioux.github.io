@@ -142,19 +142,66 @@ cv:
 
     Selected publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
-      - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
-        authors: ["Anthony TRIOUX", "Wei Zhang", "Giuseppe Valenzise", "Fuzheng Yang"]
-        publisher: "IEEE Transactions on Services Computing (Special Issue on Metaverse Services)"
-        releaseDate: 2026
-        url: ""
-        summary: ""
+Publications:
+  - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
+    authors:
+      - "Anthony TRIOUX"
+      - "Wei Zhang"
+      - "Giuseppe Valenzise"
+      - "Fuzheng Yang"
+    publisher: "IEEE Transactions on Services Computing (Special Issue on Metaverse Services)"
+    releaseDate: 2026
+    url: ""
+    summary: ""
 
-      - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
-        authors: ["Anthony TRIOUX", "Wei Zhang", "Giuseppe Valenzise", "Fuzheng Yang"]
-        publisher: "IEEE International Conference on Multimedia & Expo (ICME)"
-        releaseDate: 2025
-        url: ""
-        summary: ""
+  - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
+    authors:
+      - "Jan Zádník"
+      - "Michel Kieffer"
+      - "Anthony TRIOUX"
+      - "M. Mäkitalo"
+      - "P. Jääskeläinen"
+    publisher: "IEEE Transactions on Mobile Computing"
+    releaseDate: 2025
+    url: ""
+    summary: "Vol. 24, No. 2, pp. 1149–1162."
+
+  - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
+    authors:
+      - "Anthony TRIOUX"
+      - "Wei Zhang"
+      - "Giuseppe Valenzise"
+      - "Fuzheng Yang"
+    publisher: "Proc. IEEE International Conference on Multimedia & Expo (ICME)"
+    releaseDate: 2025
+    url: ""
+    summary: "pp. 1–6."
+
+  - title: "Subjective Fidelity Assessment of Audio- and Video-Driven Talking Head Generation Methods"
+    authors:
+      - "Anthony TRIOUX"
+      - "Yu Gao"
+      - "J. Song"
+      - "Wenjie Wu"
+      - "F. Ma"
+      - "Fuzheng Yang"
+    publisher: "Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+    releaseDate: 2025
+    url: ""
+    summary: ""
+
+  - title: "Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study"
+    authors:
+      - "Anthony TRIOUX"
+      - "Wei Zhang"
+      - "Wenjie Wu"
+      - "Yu Gao"
+      - "Giuseppe Valenzise"
+      - "Fuzheng Yang"
+    publisher: "Proc. Data Compression Conference (DCC)"
+    releaseDate: 2025
+    url: ""
+    summary: "pp. 402–402."
 
     Skills:
       - name: Immersive Media & Avatars
