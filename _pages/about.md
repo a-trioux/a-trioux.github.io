@@ -14,18 +14,18 @@ profile:
     <p>Xi'an, Shaanxi, China</p>
     <p>Email: <a href="mailto:anthony_triouxATxidian(dot)edu(dot)cn">anthony_triouxATxidian(dot)edu(dot)cn</a></p>
 
-selected_papers: true
-social: true
+#selected_papers: true
+#social: true
 
-announcements:
-  enabled: true
-  scrollable: true
-  limit: 6
+#announcements:
+#  enabled: true
+#  scrollable: true
+#  limit: 6
 
-latest_posts:
-  enabled: false
-  scrollable: true
-  limit: 3
+#latest_posts:
+#  enabled: false
+#  scrollable: true
+#  limit: 3
 ---
 
 ### Biography
