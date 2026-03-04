@@ -18,7 +18,7 @@ cv:
     - network: GitHub
       username: a-trioux
     - network: LinkedIn
-      username: your-linkedin-id
+      username: your-linkedin-iD
 
   address:
     street: "No.2 Taibai South Rd"
@@ -140,7 +140,7 @@ cv:
         awarder: CNRS / GDR-ISIS
         summary: "Research mobility grant."
 
-    Publications:
+    Selected publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
       - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
         authors: ["Anthony TRIOUX", "Wei Zhang", "Giuseppe Valenzise", "Fuzheng Yang"]
