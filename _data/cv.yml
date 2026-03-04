@@ -1,9 +1,9 @@
 cv:
   name: Anthony TRIOUX
   label: Associate Professor (Multimedia Communication) · Senior Member, IEEE
-  email: your.email@xidian.edu.cn
-  location: Xi’an, China
-  image: ""  # e.g., "assets/img/prof_pic.jpg"
+  email: anthony_triouxATxidian(dot)edu(dot)cn
+  location: Xidian Univ., Xi’an, China
+  image: "assets/img/prof_pic.jpg"  # e.g., "assets/img/prof_pic.jpg"
   summary: >
     Associate Professor at Xidian University (School of Telecommunications Engineering). My research focuses on multimedia communication,
     including video coding and transmission, ultra-low-latency delivery, immersive media compression (avatars/animation streams),
@@ -21,10 +21,10 @@ cv:
       username: your-linkedin-id
 
   address:
-    street: ""
+    street: "No.2 Taibai South Rd"
     city: Xi’an
     region: Shaanxi
-    postalCode: ""
+    postalCode: "710071"
     countryCode: CN
 
   sections:
@@ -184,8 +184,6 @@ cv:
       - name: Digital Humans / Metaverse
         keywords: "avatars, animation coding, representation formats, quality assessment"
 
-    Volunteer: []
-    Certificates: []
     Projects:
       - name: Xi’an International Cooperation Base on Key Technologies and Applications of Visual Media Communications
         summary: "PI/Lead. International collaboration platform fostering joint research planning, exchanges, co-supervision, and co-authored outputs."
@@ -209,5 +207,3 @@ cv:
         summary: "Low-latency multimedia communication and system-level evaluation."
         start_date: 2019.09
         end_date: 2022.08
-
-    References: []
