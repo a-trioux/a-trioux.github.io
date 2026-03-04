@@ -125,97 +125,68 @@ cv:
         awarder: "Maupertuis program"
         summary: "Mobility grant supporting international research collaboration."
 
-      - title: French–Swedish TOR mobility program laureate
-        date: 2022
-        awarder: "TOR program"
-        summary: "Mobility grant supporting international research collaboration."
-
-      - title: Erasmus+ staff teaching mobility program laureate
-        date: 2022
-        awarder: "Erasmus+"
-        summary: "Teaching mobility grant."
-
-      - title: CNRS/GDR-ISIS Research mobility grant
-        date: 2019
-        awarder: CNRS / GDR-ISIS
-        summary: "Research mobility grant."
-
-    publications:
+     Selected Publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
-    - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
-    authors:
-      - "Anthony TRIOUX"
-      - "Wei Zhang"
-      - "Giuseppe Valenzise"
-      - "Fuzheng Yang"
-    publisher: "IEEE Transactions on Services Computing (Special Issue on Metaverse Services)"
-    releaseDate: 2026
-    url: ""
-    summary: ""
+      - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
+        authors:
+          - "Anthony TRIOUX"
+          - "Wei Zhang"
+          - "Giuseppe Valenzise"
+          - "Fuzheng Yang"
+        publisher: "IEEE Transactions on Services Computing (Special Issue on Metaverse Services)"
+        releaseDate: 2026
+        url: ""
+        summary: ""
 
-    - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
-    authors:
-      - "Jan Zádník"
-      - "Michel Kieffer"
-      - "Anthony TRIOUX"
-      - "M. Mäkitalo"
-      - "P. Jääskeläinen"
-    publisher: "IEEE Transactions on Mobile Computing"
-    releaseDate: 2025
-    url: ""
-    summary: "Vol. 24, No. 2, pp. 1149–1162."
+      - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
+        authors:
+          - "Jan Zádník"
+          - "Michel Kieffer"
+          - "Anthony TRIOUX"
+          - "M. Mäkitalo"
+          - "P. Jääskeläinen"
+        publisher: "IEEE Transactions on Mobile Computing"
+        releaseDate: 2025
+        url: ""
+        summary: "Vol. 24, No. 2, pp. 1149–1162."
 
-    - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
-    authors:
-      - "Anthony TRIOUX"
-      - "Wei Zhang"
-      - "Giuseppe Valenzise"
-      - "Fuzheng Yang"
-    publisher: "Proc. IEEE International Conference on Multimedia & Expo (ICME)"
-    releaseDate: 2025
-    url: ""
-    summary: "pp. 1–6."
+      - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
+        authors:
+          - "Anthony TRIOUX"
+          - "Wei Zhang"
+          - "Giuseppe Valenzise"
+          - "Fuzheng Yang"
+        publisher: "Proc. IEEE International Conference on Multimedia & Expo (ICME)"
+        releaseDate: 2025
+        url: ""
+        summary: "pp. 1–6."
 
-    - title: "Subjective Fidelity Assessment of Audio- and Video-Driven Talking Head Generation Methods"
-    authors:
-      - "Anthony TRIOUX"
-      - "Yu Gao"
-      - "J. Song"
-      - "Wenjie Wu"
-      - "F. Ma"
-      - "Fuzheng Yang"
-    publisher: "Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
-    releaseDate: 2025
-    url: ""
-    summary: ""
+      - title: "Subjective Fidelity Assessment of Audio- and Video-Driven Talking Head Generation Methods"
+        authors:
+          - "Anthony TRIOUX"
+          - "Yu Gao"
+          - "J. Song"
+          - "Wenjie Wu"
+          - "F. Ma"
+          - "Fuzheng Yang"
+        publisher: "Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
+        releaseDate: 2025
+        url: ""
+        summary: ""
 
-    - title: "Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study"
-    authors:
-      - "Anthony TRIOUX"
-      - "Wei Zhang"
-      - "Wenjie Wu"
-      - "Yu Gao"
-      - "Giuseppe Valenzise"
-      - "Fuzheng Yang"
-    publisher: "Proc. Data Compression Conference (DCC)"
-    releaseDate: 2025
-    url: ""
-    summary: "pp. 402–402."
-
-    Skills:
-      - name: Immersive Media & Avatars
-        level: Advanced
-        keywords: "MPEG-I ARF, animation stream compression, blendshapes, landmarks, interoperability"
-      - name: 3D Gaussian Splatting (3DGS)
-        level: Advanced
-        keywords: "compression evaluation, CTCs, OM-PSNR/OM-SSIM/OM-LPIPS, subjective protocols"
-      - name: Video Coding & Transmission
-        level: Advanced
-        keywords: "low-latency delivery, error resilience, joint source–channel, SoftCast/LVC concepts"
-      - name: Standardization & Research Leadership
-        level: Advanced
-        keywords: "ISO/IEC MPEG, JVET, exploration experiments, benchmarks, reproducible evaluation"
-
+      - title: "Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study"
+        authors:
+          - "Anthony TRIOUX"
+          - "Wei Zhang"
+          - "Wenjie Wu"
+          - "Yu Gao"
+          - "Giuseppe Valenzise"
+          - "Fuzheng Yang"
+        publisher: "Proc. Data Compression Conference (DCC)"
+        releaseDate: 2025
+        url: ""
+        summary: "pp. 402–402."
+        
     Languages:
       - name: English
         summary: "Fluent"
