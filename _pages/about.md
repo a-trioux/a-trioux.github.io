@@ -55,7 +55,7 @@ He serves as Associate Editor of *EURASIP Signal Processing: Image Communication
 
 ### Quick links
 
-- **Publications:** `/publications/`
-- **Projects:** `/projects/`
-- **News:** `/news/`
-- **CV:** `/cv/`
+- **Publications:** `[/publications/](https://a-trioux.github.io/publications/)`
+###- **Projects:** `/projects/`
+###- **News:** `/news/`
+- **CV:** `[/cv/](https://a-trioux.github.io/cv/)`
