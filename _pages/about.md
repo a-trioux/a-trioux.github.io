@@ -48,7 +48,5 @@ He serves as Associate Editor of *EURASIP Signal Processing: Image Communication
 - **Immersive media:** avatar representation and animation stream compression; interoperability for metaverse services  
 - **3D Gaussian Splatting (3DGS):** compression evaluation, common test conditions, and occupancy-map-aware metrics  
 - **Quality assessment:** objective metrics and subjective evaluation protocols for 2D/3D media  
-- **Multimedia communications:** video coding and transmission; latency-critical delivery; error resilience  
+- **Multimedia communications:** video coding and transmission; latency-critical delivery; error resilience
 - **Ultra-low-bitrate video conferencing:** GFVC; signaling and tools for reliable visual communication
-
----
