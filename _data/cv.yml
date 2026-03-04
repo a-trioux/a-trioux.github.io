@@ -125,6 +125,21 @@ cv:
         awarder: "Maupertuis program"
         summary: "Mobility grant supporting international research collaboration."
 
+      - title: French–Swedish TOR mobility program laureate 
+        date: 2022 
+        awarder: "TOR program" 
+        summary: "Mobility grant supporting international research collaboration." 
+        
+      - title: Erasmus+ staff teaching mobility program laureate 
+        date: 2022 
+        awarder: "Erasmus+" 
+        summary: "Teaching mobility grant." 
+        
+      - title: CNRS/GDR-ISIS Research mobility grant 
+        date: 2019 
+        awarder: CNRS / GDR-ISIS 
+        summary: "Research mobility grant."
+
      Publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
       - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
