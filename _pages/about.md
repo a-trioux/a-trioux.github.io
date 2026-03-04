@@ -58,4 +58,4 @@ He serves as Associate Editor of *EURASIP Signal Processing: Image Communication
 - **Publications:** `/publications/`
 - **Projects:** `/projects/`
 - **News:** `/news/`
-- **CV:** `/cv/` (if enabled in your site)
+- **CV:** `/cv/`
