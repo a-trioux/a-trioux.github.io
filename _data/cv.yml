@@ -125,7 +125,7 @@ cv:
         awarder: "Maupertuis program"
         summary: "Mobility grant supporting international research collaboration."
 
-     Selected Publications:
+     Publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
       - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
         authors:
