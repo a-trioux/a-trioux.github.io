@@ -12,7 +12,7 @@ profile:
     <p><strong>Xidian University</strong></p>
     <p>School of Telecommunications Engineering</p>
     <p>Xi'an, Shaanxi, China</p>
-    <p>Email: <a href="mailto:YOUR_EMAIL@xidian.edu.cn">YOUR_EMAIL@xidian.edu.cn</a></p>
+    <p>Email: <a href="mailto:anthony_triouxATxidian(dot)edu(dot)cn">anthony_triouxATxidian(dot)edu(dot)cn</a></p>
 
 selected_papers: true
 social: true
@@ -30,7 +30,7 @@ latest_posts:
 
 ### Biography
 
-Anthony TRIOUX (Member, IEEE) received the Ph.D. degree in Electronics and Communication Engineering from Univ. Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520), France. 
+Anthony TRIOUX (Senior Member, IEEE) received the Ph.D. degree in Electronics and Communication Engineering from Univ. Polytechnique Hauts-de-France (UPHF, UMR CNRS 8520), France. 
 He was an Assistant Professor at Centrale Lille (2019–2020) and a tenured Associate Professor at UPHF/INSA Hauts-de-France (2020–2022). 
 He is currently an Associate Professor at Xidian University, China.
 
