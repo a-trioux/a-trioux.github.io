@@ -35,7 +35,7 @@ He was an Assistant Professor at Centrale Lille (2019–2020) and a tenured Asso
 He is currently an Associate Professor at Xidian University, China.
 
 Anthony is actively involved in international standardization, contributing to the Moving Picture Experts Group (MPEG) in ISO/IEC JTC 1/SC 29 and to the Joint Video Experts Team (JVET) of ISO/IEC and ITU-T. 
-He currently serves as Chair of the Ad Hoc Group on Animation Data Compression, EE Coordinator/Task Leader for MPEG-I Part 39 (Avatar Representation Format, ARF), and JEE-6.8 Coordinator/Task Leader on Gaussian Splat Coding common test conditions and evaluation.
+He currently serves as Co-Chair (with Thomas Stockhammer) of the Ad Hoc Group on Animation Data Compression, EE Coordinator/Task Leader for MPEG-I Part 39 (Avatar Representation Format, ARF), and JEE-6.8 Coordinator/Task Leader on Gaussian Splat Coding common test conditions and evaluation.
 
 His research interests include multimedia communications, 3D media and avatar compression, Generative Face Video Coding (GFVC), 3D Gaussian Splatting (3DGS), and reliable / latency-critical video delivery. 
 He has delivered multiple tutorials and invited talks (e.g., GFVC and avatar standardization) at venues including IEEE ICME, ICECS, EUSIPCO, and VCIP. 
