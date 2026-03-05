@@ -57,7 +57,7 @@ navbar_fixed: true
 footer_fixed: false
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -139,15 +139,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
-    output: true
+    output: false
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -188,6 +188,17 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+   # Remove template/demo content from build (and from sitemap/search)
+  - _posts/
+  - _books/
+  - _projects/
+  - _teachings/
+  - _news/announcement_*.md
+  - _pages/people.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/blog.md
+  - _pages/books.md
 keep_files:
   - CNAME
   - .nojekyll
