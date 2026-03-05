@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-invited-talks-amp-tutorials",
-          title: "invited talks &amp; tutorials",
+          title: "Invited talks &amp; Tutorials",
           description: "Tutorials and invited talks in reverse chronological order.",
           section: "Navigation",
           handler: () => {
