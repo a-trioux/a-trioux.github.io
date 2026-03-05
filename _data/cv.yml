@@ -140,7 +140,7 @@ cv:
         awarder: CNRS / GDR-ISIS 
         summary: "Research mobility grant."
 
-     Publications:
+    Publications:
       # Recommended: render the full list from BibTeX (papers.bib) and keep this section for a short “Selected” subset only.
       - title: "Avatar Standardization Efforts for Interoperable Metaverse Services: Towards a Seamless Avatar-as-a-Service Ecosystem"
         authors:
@@ -201,6 +201,8 @@ cv:
         releaseDate: 2025
         url: ""
         summary: "pp. 402–402."
+
+    Skills:
         
     Languages:
       - name: English
