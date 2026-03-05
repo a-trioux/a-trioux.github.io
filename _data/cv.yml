@@ -3,7 +3,7 @@ cv:
   label: Associate Professor (Multimedia Communication) · Senior Member, IEEE
   email: anthony_triouxATxidian(dot)edu(dot)cn
   location: Xidian Univ., Xi’an, China
-  image: "assets/img/prof_pic.jpg"  # e.g., "assets/img/prof_pic.jpg"
+  image: assets/img/prof_pic.jpg  # e.g., "assets/img/prof_pic.jpg"
   summary: >
     Associate Professor at Xidian University (School of Telecommunications Engineering). My research focuses on multimedia communication,
     including video coding and transmission, ultra-low-latency delivery, immersive media compression (avatars/animation streams),
