@@ -15,7 +15,7 @@ profile:
     <p>Email: <a href="mailto:anthony_triouxATxidian(dot)edu(dot)cn">anthony_triouxATxidian(dot)edu(dot)cn</a></p>
 
 selected_papers: true
-social: true
+social: false
 
 #announcements:
 #  enabled: true
