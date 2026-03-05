@@ -150,7 +150,7 @@ cv:
           - "Fuzheng Yang"
         publisher: "IEEE Transactions on Services Computing (Special Issue on Metaverse Services)"
         releaseDate: 2026
-        url: ""
+        url: "https://ieeexplore.ieee.org/document/11417742"
         summary: ""
 
       - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
@@ -162,7 +162,7 @@ cv:
           - "P. Jääskeläinen"
         publisher: "IEEE Transactions on Mobile Computing"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/document/10719663"
         summary: "Vol. 24, No. 2, pp. 1149–1162."
 
       - title: "Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis"
@@ -173,7 +173,7 @@ cv:
           - "Fuzheng Yang"
         publisher: "Proc. IEEE International Conference on Multimedia & Expo (ICME)"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/document/11209177"
         summary: "pp. 1–6."
 
       - title: "Subjective Fidelity Assessment of Audio- and Video-Driven Talking Head Generation Methods"
@@ -186,7 +186,7 @@ cv:
           - "Fuzheng Yang"
         publisher: "Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/abstract/document/10888660"
         summary: ""
 
       - title: "Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study"
@@ -199,7 +199,7 @@ cv:
           - "Fuzheng Yang"
         publisher: "Proc. Data Compression Conference (DCC)"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/document/10992572"
         summary: "pp. 402–402."
 
     Skills:
