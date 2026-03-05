@@ -8,7 +8,7 @@ cv:
     Associate Professor at Xidian University (School of Telecommunications Engineering). My research focuses on multimedia communication,
     including video coding and transmission, ultra-low-latency delivery, immersive media compression (avatars/animation streams),
     Generative Face Video Coding (GFVC), and 3D Gaussian Splatting (3DGS) evaluation and quality metrics. I am actively involved in
-    ISO/IEC standardization (MPEG) and JVET, with technical leadership roles in animation compression, MPEG-I Part 39 (ARF), and Gaussian Splat Coding.
+    ISO/IEC standardization (MPEG and JVET), with technical leadership roles in animation compression, MPEG-I Part 39 (Avatar Representation Format), and Gaussian Splat Coding.
 
   social_networks:
     - network: Google Scholar
