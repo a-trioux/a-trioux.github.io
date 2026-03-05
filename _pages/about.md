@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Associate Professor · Multimedia Communication · Xidian University
+subtitle: Associate Professor | SMIEEE | Ph.D. Multimedia Communication | Xidian University
 
 profile:
   align: right
@@ -50,3 +50,5 @@ He serves as Associate Editor of *EURASIP Signal Processing: Image Communication
 - **Quality assessment:** objective metrics and subjective evaluation protocols for 2D/3D media  
 - **Multimedia communications:** video coding and transmission; latency-critical delivery; error resilience
 - **Ultra-low-bitrate video conferencing:** GFVC; signaling and tools for reliable visual communication
+
+---
