@@ -114,7 +114,7 @@ cv:
         highlights:
           - "Teaching in signal and video processing (88h) alongside doctoral research."
 
-    Awards:
+    Honors and Awards:
       - title: MMSP Technical Committee Best Service Award
         date: 2025
         awarder: IEEE MMSP Technical Committee
@@ -201,6 +201,105 @@ cv:
         releaseDate: 2025
         url: https://ieeexplore.ieee.org/document/10992572
         summary: "pp. 402–402."
+
+    Tutorials and Invited talks:
+    # Tutorials and invited talks (selected). Format matches the Publications section.
+      - title: "Ultra-Low Bitrate Video Conferencing with Generative Face Video Coding: From Research to Standardization"
+        authors:
+          - "Anthony TRIOUX"
+          - "Peilin Chen"
+          - "Giuseppe Valenzise"
+          - "Shiqi Wang"
+        publisher: "IEEE International Conference on Visual Communications and Image Processing (VCIP), Klagenfurt, Austria"
+        releaseDate: 2025
+        summary: "Tutorial."
+
+      - title: "Generative Face Video Coding and Avatars: Selected Recent MPEG Efforts in Human Representation Standards"
+        authors:
+          - "Anthony TRIOUX"
+          - "Shiqi Wang"
+          - "François Le Clerc"
+        publisher: "IEEE International Conference on Multimedia & Expo (ICME), Nantes, France"
+        releaseDate: 2025
+        summary: "Tutorial."
+    
+      - title: "Avatars in Motion: Representation, Compression and Quality Evaluation"
+        authors:
+          - "Anthony TRIOUX"
+        publisher: "IEEE MMSP Thematic School (co-located with IEEE MMSP), Beijing, China"
+        releaseDate: 2025
+        summary: "Invited talk."
+    
+      - title: "From Paper to Posters: Designing and Presenting Effective Scientific Posters"
+        authors:
+          - "Anthony TRIOUX"
+        publisher: "IEEE MMSP Thematic School (co-located with IEEE MMSP), Beijing, China"
+        releaseDate: 2025
+        summary: "Invited talk."
+    
+      - title: "Generative Face Video Coding for Video Conferencing: Introduction, Performance and Challenges"
+        authors:
+          - "Anthony TRIOUX"
+          - "Giuseppe Valenzise"
+          - "Shiqi Wang"
+          - "Goluck Konuko"
+          - "Fuzheng Yang"
+        publisher: "IEEE International Conference on Visual Communications and Image Processing (VCIP), Tokyo, Japan"
+        releaseDate: 2024
+        summary: "Tutorial."
+    
+      - title: "Linear Video Coding and Transmission Schemes for Next Generation Video Applications"
+        authors:
+          - "A. TRIOUX"
+          - "Michel Kieffer"
+        publisher: "IEEE International Conference on Visual Communications and Image Processing (VCIP), Suzhou, China"
+        releaseDate: 2022
+        summary: "Tutorial."
+    
+      - title: "Uncoded Video Transmission: Principles, Performance and Challenges"
+        authors:
+          - "A. TRIOUX"
+          - "Michel Kieffer"
+        publisher: "30th IEEE European Signal Processing Conference (EUSIPCO), Belgrade, Serbia"
+        releaseDate: 2022
+        summary: "Tutorial."
+    
+      - title: "Linear Video Coding and Transmission Architectures for Mobility and Latency-Critical Applications"
+        authors:
+          - "A. TRIOUX"
+          - "François-Xavier Coudoux"
+          - "Marco Cagnazzo"
+          - "Michel Kieffer"
+        publisher: "28th IEEE International Conference on Electronics, Circuits and Systems (ICECS), Dubai, UAE"
+        releaseDate: 2021
+        summary: "Tutorial."
+
+    Editorial and Professional services: 
+      - title: Technical committees
+        highlights:
+          - "Elected Member, IEEE Signal Processing Society (SPS), Multimedia Signal Processing (MMSP) Technical Committee (since 2025)."
+          - "Elected Member, IEEE Circuits and Systems Society (CAS), Multimedia Systems and Applications (MSA) Technical Committee (since 2025)."
+          - "Elected Member, IEEE Circuits and Systems Society (CAS), Visual Signal Processing and Communications (VSPC) Technical Committee (since 2026)."
+
+      - title: Editorial boards
+        highlights:
+          - "Associate Editor, EURASIP Signal Processing: Image Communication (since 2025)."
+          - "Associate Editor, Springer Journal on Image and Video Processing (since 2024)."
+
+      - title: Review activities
+        highlights:
+          - "Area Chair, IEEE International Conference on Multimedia & Expo (ICME) (2025, 2026)."
+          - "Area Chair, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2025, 2026)."
+          - "Area Chair, IEEE International Symposium on Circuits and Systems (ISCAS) (2026)."
+          - "TPC Member, IEEE Future Networks World Forum (FNWF) (2022–2024)."
+          - "TPC Member, IEEE Wireless Communications and Networking Conference (WCNC) (2022–2024)."
+          - "Reviewer, IEEE ICASSP, ICME, ICIP, ISCAS, VCIP, FNWF, WCNC, etc. (2020–2026)."
+
+      - title: Conference organization
+        highlights:
+          - "Publicity Co-Chair, IEEE International Conference on Visual Communications and Image Processing (VCIP) (2026)."
+          - "Special Session Organizer, “Avatars in Motion: Capture, Representation, Coding, and Quality Assessment for Immersive Communication,” IEEE International Conference on Multimedia & Expo (ICME) (2026)."
+          - "Publication and Special Session Co-Chair, IEEE Multimedia Signal Processing Workshop (MMSP) (2025)."
 
     Skills:
       - name: Immersive Media & Avatars
