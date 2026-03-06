@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-standardization-activities",
+          title: "Standardization activities",
+          description: "Contributions to MPEG/JVET standardization in reverse chronological order.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/standards/";
+          },
         },{
       id: 'light-theme',
       title: 'Change theme to light',
