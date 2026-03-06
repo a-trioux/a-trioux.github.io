@@ -311,19 +311,19 @@ cv:
           
     Skills:
       - name: Immersive Media & Avatars
-        level: Advanced
+        level: 
         keywords: "MPEG-I ARF, animation stream compression, blendshapes, landmarks, interoperability"
 
       - name: 3D Gaussian Splatting (3DGS)
-        level: Advanced
+        level: 
         keywords: "compression evaluation, common test conditions (CTCs), OM-PSNR/OM-SSIM/OM-LPIPS, subjective protocols"
 
       - name: Video Coding & Transmission
-        level: Advanced
+        level: 
         keywords: "ultra-low latency delivery, error resilience, joint source–channel coding, SoftCast/LVC concepts"
 
       - name: Standardization & Research Leadership
-        level: Advanced
+        level: 
         keywords: "ISO/IEC MPEG, JVET, exploration experiments, benchmarking, reproducible evaluation"
         
     Languages:
