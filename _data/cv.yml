@@ -5,10 +5,10 @@ cv:
   location: Xidian Univ., Xi’an, China
   image: assets/img/prof_pic.jpg  # e.g., "assets/img/prof_pic.jpg"
   summary: >
-    Associate Professor at Xidian University (School of Telecommunications Engineering). My research focuses on multimedia communication,
-    including video coding and transmission, ultra-low-latency delivery, immersive media compression (avatars/animation streams),
-    Generative Face Video Coding (GFVC), and 3D Gaussian Splatting (3DGS) evaluation and quality metrics. I am actively involved in
+    Associate Professor at Xidian University (School of Telecommunications Engineering). My research focuses on multimedia communication and quality assessment in general,
+    including but not limited to coding and transmission, immersive media compression (avatars/animation streams), 3D Gaussian Splatting (3DGS) evaluation and quality metrics and Generative Face Video Coding (GFVC). I am actively involved in
     ISO/IEC standardization (MPEG and JVET), with technical leadership roles in animation compression, MPEG-I Part 39 (Avatar Representation Format), and Gaussian Splat Coding.
+    I have been elected as a member of of theMultimedia Systems and Applications Technical Committee (MSA-TC) and the Visual Signal Processing and Communications Technical Committee (VSPC-TC) of the IEEE Circuits and Systems Society (CAS) as well as elected as a member of theMultimedia Signal Processing Technical Committee (MMSP-TC) of the IEEE Signal Processing Society (SPS).
 
   social_networks:
     - network: Google Scholar
