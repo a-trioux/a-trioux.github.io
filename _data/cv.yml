@@ -202,8 +202,6 @@ cv:
         url: https://ieeexplore.ieee.org/document/10992572
         summary: "pp. 402–402."
         
-    #Tutorials and Invited Talks:
-      # Tutorials and invited talks (selected). Format matches the Publications section.
       - title: "Ultra-Low Bitrate Video Conferencing with Generative Face Video Coding: From Research to Standardization"
         authors:
           - "Anthony TRIOUX"
@@ -282,6 +280,8 @@ cv:
         url: ""
         summary: "Tutorial."
 
+    #Tutorials and Invited Talks:
+      # Tutorials and invited talks (selected). Format matches the Publications section.
      Editorial and Professional Services:
       - title: Technical committees
         highlights:
