@@ -202,7 +202,7 @@ cv:
         url: https://ieeexplore.ieee.org/document/10992572
         summary: "pp. 402–402."
         
-    "Tutorials and Invited Talks":
+    #Tutorials and Invited Talks:
       # Tutorials and invited talks (selected). Format matches the Publications section.
       - title: "Ultra-Low Bitrate Video Conferencing with Generative Face Video Coding: From Research to Standardization"
         authors:
@@ -282,7 +282,7 @@ cv:
         url: ""
         summary: "Tutorial."
 
-    "Editorial and Professional Services":
+     Editorial and Professional Services:
       - title: Technical committees
         highlights:
           - "Elected Member, IEEE Signal Processing Society (SPS), Multimedia Signal Processing (MMSP) Technical Committee (since 2025)."
