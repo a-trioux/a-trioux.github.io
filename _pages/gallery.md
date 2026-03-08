@@ -7,10 +7,10 @@ nav: true
 nav_order: 7
 ---
 
-<div class="Gallery">
+<div class="gallery">
   {% for image in site.data.gallery %}
     <div class="gallery-item">
-      <a href="{{ '/assets/img/gallery/' | append: image.url | relative_url }}" 
+      <a href="{{ '/assets/img/' | append: image.url | relative_url }}" 
          class="gallery-item glightbox" 
          data-title="{{ image.title }}" 
          data-description="{{ image.caption }}">
@@ -54,7 +54,7 @@ nav_order: 7
 
   .gallery-item img {
     width: 100%;
-    height: 200px;
+    height: auto;
     object-fit: cover;
     border-radius: 8px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.15);
