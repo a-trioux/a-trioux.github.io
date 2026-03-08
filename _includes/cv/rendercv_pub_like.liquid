@@ -1,0 +1,51 @@
+{%- comment -%}
+Renders items shaped like:
+- title
+- authors (list)
+- publisher
+- releaseDate
+- url
+- summary
+{%- endcomment -%}
+
+<ul class="bibliography">
+  {%- for item in include.items -%}
+    <li>
+      <div class="row">
+        <div class="col-sm-10">
+          <div class="title">
+            {%- if item.url and item.url != "" -%}
+              <a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a>
+            {%- else -%}
+              {{ item.title }}
+            {%- endif -%}
+          </div>
+
+          {%- if item.authors -%}
+            <div class="author">
+              {{ item.authors | join: ", " }}
+            </div>
+          {%- endif -%}
+
+          {%- if item.publisher -%}
+            <div class="periodical">
+              {{ item.publisher }}
+            </div>
+          {%- endif -%}
+
+          {%- if item.summary and item.summary != "" -%}
+            <div class="note">
+              {{ item.summary }}
+            </div>
+          {%- endif -%}
+        </div>
+
+        <div class="col-sm-2 text-right">
+          {%- if item.releaseDate -%}
+            <span class="year">{{ item.releaseDate }}</span>
+          {%- endif -%}
+        </div>
+      </div>
+    </li>
+  {%- endfor -%}
+</ul>
