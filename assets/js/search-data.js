@@ -38,8 +38,8 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-gallery",
-          title: "gallery",
-          description: "A selection of photos during my journey",
+          title: "Gallery",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
