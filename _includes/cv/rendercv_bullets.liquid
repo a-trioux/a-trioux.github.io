@@ -1,0 +1,21 @@
+{%- comment -%}
+Renders items shaped like:
+- title
+- highlights (list of strings)
+{%- endcomment -%}
+
+{%- for item in include.items -%}
+  <div class="cv-item">
+    {%- if item.title -%}
+      <div class="title"><strong>{{ item.title }}</strong></div>
+    {%- endif -%}
+
+    {%- if item.highlights -%}
+      <ul>
+        {%- for h in item.highlights -%}
+          <li>{{ h }}</li>
+        {%- endfor -%}
+      </ul>
+    {%- endif -%}
+  </div>
+{%- endfor -%}
