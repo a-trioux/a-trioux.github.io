@@ -157,7 +157,7 @@ layout: default
               {% elsif section_title == 'Awards' or section_title == 'Honors and Awards' %}
                 {% assign entries = section_entries %}
                 {% include cv/awards.liquid %}
-              {% elsif section_title == 'Publications' %}
+              {% elsif section_title == 'Publications' or section_title == 'Tutorials and Invited Talks' %}
                 {% assign entries = section_entries %}
                 {% include cv/publications.liquid %}
               {% elsif section_title == 'Skills' %}
@@ -185,10 +185,22 @@ layout: default
                     <ul class="card-text font-weight-light list-group list-group-flush">
                       <li class="list-group-item">{{ entry.bullet | markdownify | remove: '<p>' | remove: '</p>' }}</li>
                     </ul>
+              
                   {% elsif entry.label %}
                     <div class="card-text font-weight-light">
                       <strong>{{ entry.label }}:</strong> {{ entry.details }}
                     </div>
+              
+                  {% elsif entry.title and entry.highlights %}
+                    <div class="mb-3">
+                      <div class="font-weight-bold">{{ entry.title }}</div>
+                      <ul class="card-text font-weight-light list-group list-group-flush">
+                        {% for item in entry.highlights %}
+                          <li class="list-group-item">{{ item }}</li>
+                        {% endfor %}
+                      </ul>
+                    </div>
+              
                   {% endif %}
                 {% endfor %}
               {% endif %}
