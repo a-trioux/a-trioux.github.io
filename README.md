@@ -1,4 +1,5 @@
 Anthony Trioux's Personal & Academic Site
+
 To develop my own personal and academic website, I forked this repo from al-folio (A simple, clean, and responsive Jekyll theme for academics.).
 
 License
