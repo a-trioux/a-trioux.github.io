@@ -14,7 +14,7 @@ nav_order: 7
          class="gallery-item glightbox" 
          data-title="{{ image.title }}" 
          data-description="{{ image.caption }}">
-        <img src="{{ '/assets/img/gallery/' | append: image.url | relative_url }}" alt="{{ image.title }}">
+        <img src="{{ '/assets/img/' | append: image.url | relative_url }}" alt="{{ image.title }}">
       </a>
     </div>
   {% endfor %}
