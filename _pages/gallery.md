@@ -1,7 +1,7 @@
 ---
 layout: page
-title: gallery
-description: A selection of photos during my journey
+title: Gallery
+description: 
 permalink: /gallery/
 nav: true
 nav_order: 7
