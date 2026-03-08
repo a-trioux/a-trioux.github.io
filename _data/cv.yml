@@ -3,7 +3,7 @@ cv:
   label: Associate Professor (Multimedia Communication) | Senior Member, IEEE | Ph.D.
   email: anthony_triouxATxidian(dot)edu(dot)cn
   location: Xidian Univ., Xi’an, China
-  image: assets/img/prof_pic.jpg  # e.g., "assets/img/prof_pic.jpg"
+  image: "/assets/img/prof_pic.jpg"  # e.g., "assets/img/prof_pic.jpg"
   summary: >
     Associate Professor at Xidian University (School of Telecommunications Engineering). My research focuses on multimedia communication and quality assessment in general,
     including but not limited to coding and transmission, immersive media compression (avatars/animation streams), 3D Gaussian Splatting (3DGS) evaluation and quality metrics and Generative Face Video Coding (GFVC). I am actively involved in
