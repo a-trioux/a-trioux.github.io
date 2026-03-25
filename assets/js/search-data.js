@@ -44,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "news-one-paper-accepted-at-ieee-icme-2025",
+        },{id: "news-one-paper-accepted-at-ieee-icassp-2025",
+          title: '🎉 One paper accepted at IEEE ICASSP 2025.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-at-ieee-icme-2025",
           title: '🎉 One paper accepted at IEEE ICME 2025.',
           description: "",
           section: "News",},{id: "news-tutorial-delivered-on-generative-face-video-coding-and-avatars-selected-recent-mpeg-efforts-in-human-representation-standards-at-icme-2025",
