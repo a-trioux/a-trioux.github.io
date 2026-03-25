@@ -54,4 +54,3 @@ He serves as Associate Editor of *EURASIP Signal Processing: Image Communication
 - **Multimedia communications:** video coding and transmission; latency-critical delivery; error resilience
 - **Ultra-low-bitrate video conferencing:** GFVC; signaling and tools for reliable visual communication
 
----
