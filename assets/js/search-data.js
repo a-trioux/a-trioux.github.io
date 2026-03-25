@@ -55,6 +55,9 @@ ninja.data = [{
             },},{id: "news-two-papers-accepted-at-ieee-icme-2026",
           title: '🎉 Two papers accepted at IEEE ICME 2026.',
           description: "",
+          section: "News",},{id: "news-tutorials-delivered-on-generative-face-video-coding-and-avatars-selected-recent-mpeg-efforts-in-human-representation-standards-at-icme-2025",
+          title: '🎤 Tutorials delivered on Generative Face Video Coding and Avatars: Selected Recent MPEG...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
