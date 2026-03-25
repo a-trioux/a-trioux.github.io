@@ -44,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{
+        },{id: "news-two-papers-accepted-at-ieee-icme-2026",
+          title: '🎉 Two papers accepted at IEEE ICME 2026.',
+          description: "",
+          section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
