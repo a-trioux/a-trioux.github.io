@@ -44,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "news-a-long-announcement-with-details",
+        },{id: "news-paper-accepted-in-ieee-transactions-on-services-computing-special-issue-on-metaverse-services",
+          title: '📘 Paper accepted in IEEE Transactions on Services Computing, Special Issue on Metaverse...',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
