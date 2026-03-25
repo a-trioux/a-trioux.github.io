@@ -66,7 +66,7 @@ ninja.data = [{
           title: '🎤 Invited talk delivered From Paper to Posters: Designing and Presenting Effective Scientific...',
           description: "",
           section: "News",},{id: "news-️-elected-as-a-member-of-the-ieee-circuits-and-systems-society-cas-multimedia-systems-and-applications-technical-committee-msa-tc",
-          title: '🎖️ Elected as a member of the **IEEE Circuits and Systems Society (CAS)...',
+          title: '🎖️ Elected as a member of the IEEE Circuits and Systems Society (CAS)...',
           description: "",
           section: "News",},{id: "news-tutorial-delivered-on-ultra-low-bitrate-video-conferencing-with-generative-face-video-coding-from-research-to-standardization-at-vcip-2025",
           title: '🎤 Tutorial delivered on Ultra-Low Bitrate Video Conferencing with Generative Face Video Coding:...',
