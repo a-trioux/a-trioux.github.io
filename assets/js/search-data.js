@@ -47,8 +47,8 @@ ninja.data = [{
         },{id: "news-paper-accepted-in-ieee-transactions-on-services-computing-special-issue-on-metaverse-services",
           title: '📘 Paper accepted in IEEE Transactions on Services Computing, Special Issue on Metaverse...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-ieee-sm",
+          title: 'Ieee_sm',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/IEEE_SM/";
