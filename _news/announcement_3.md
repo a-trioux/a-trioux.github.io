@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+📘 Paper accepted in **IEEE Transactions on Services Computing, Special Issue on Metaverse Services**.🎉🎉🎉
