@@ -23,13 +23,13 @@ announcements:
   enabled: true
   scrollable: true
   limit: 6
----
+
 
 #latest_posts:
 #  enabled: false
 #  scrollable: true
 #  limit: 3
----
+
 
 ### Biography
 
