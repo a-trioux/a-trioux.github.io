@@ -44,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "news-tutorial-delivered-on-generative-face-video-coding-and-avatars-selected-recent-mpeg-efforts-in-human-representation-standards-at-icme-2025",
+        },{id: "news-one-paper-accepted-at-ieee-icme-2025",
+          title: '🎉 One paper accepted at IEEE ICME 2025.',
+          description: "",
+          section: "News",},{id: "news-tutorial-delivered-on-generative-face-video-coding-and-avatars-selected-recent-mpeg-efforts-in-human-representation-standards-at-icme-2025",
           title: '🎤 Tutorial delivered on Generative Face Video Coding and Avatars: Selected Recent MPEG...',
           description: "",
           section: "News",},{id: "news-invited-talk-delivered-on-avatars-in-motion-representation-compression-and-quality-evaluation-at-mmsp-2025-thematic-school",
