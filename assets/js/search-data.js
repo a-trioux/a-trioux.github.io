@@ -44,10 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "news-paper-accepted-in-ieee-transactions-on-services-computing-special-issue-on-metaverse-services",
-          title: '📘 Paper accepted in IEEE Transactions on Services Computing, Special Issue on Metaverse...',
-          description: "",
-          section: "News",},{id: "news-tutorial-delivered-on-generative-face-video-coding-and-avatars-selected-recent-mpeg-efforts-in-human-representation-standards-at-icme-2025",
+        },{id: "news-tutorial-delivered-on-generative-face-video-coding-and-avatars-selected-recent-mpeg-efforts-in-human-representation-standards-at-icme-2025",
           title: '🎤 Tutorial delivered on Generative Face Video Coding and Avatars: Selected Recent MPEG...',
           description: "",
           section: "News",},{id: "news-invited-talk-delivered-on-avatars-in-motion-representation-compression-and-quality-evaluation-at-mmsp-2025-thematic-school",
@@ -61,6 +58,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-️-elevated-to-the-grade-of-ieee-senior-member",
           title: '🎖️ Elevated to the grade of IEEE Senior Member.',
+          description: "",
+          section: "News",},{id: "news-paper-accepted-in-ieee-transactions-on-services-computing-special-issue-on-metaverse-services",
+          title: '📘 Paper accepted in IEEE Transactions on Services Computing, Special Issue on Metaverse...',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-ieee-icme-2026",
           title: '🎉 Two papers accepted at IEEE ICME 2026.',
