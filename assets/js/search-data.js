@@ -59,12 +59,10 @@ ninja.data = [{
           section: "News",},{id: "news-tutorial-delivered-on-ultra-low-bitrate-video-conferencing-with-generative-face-video-coding-from-research-to-standardization-at-vcip-2025",
           title: '🎤 Tutorial delivered on Ultra-Low Bitrate Video Conferencing with Generative Face Video Coding:...',
           description: "",
-          section: "News",},{id: "news-ieee-sm",
-          title: 'Ieee_sm',
+          section: "News",},{id: "news-️-elevated-to-the-grade-of-ieee-senior-member",
+          title: '🎖️ Elevated to the grade of IEEE Senior Member.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/IEEE_SM/";
-            },},{id: "news-two-papers-accepted-at-ieee-icme-2026",
+          section: "News",},{id: "news-two-papers-accepted-at-ieee-icme-2026",
           title: '🎉 Two papers accepted at IEEE ICME 2026.',
           description: "",
           section: "News",},{
