@@ -22,7 +22,7 @@ social: false
 announcements:
   enabled: true
   scrollable: true
-  limit: 6
+  limit: 20
 
 
 #latest_posts:
