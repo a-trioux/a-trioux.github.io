@@ -44,7 +44,10 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/gallery/";
           },
-        },{id: "news-one-paper-accepted-at-ieee-icassp-2025",
+        },{id: "news-one-paper-accepted-at-ieee-dcc-2025",
+          title: '🎉 One paper accepted at IEEE DCC 2025.',
+          description: "",
+          section: "News",},{id: "news-one-paper-accepted-at-ieee-icassp-2025",
           title: '🎉 One paper accepted at IEEE ICASSP 2025.',
           description: "",
           section: "News",},{id: "news-one-paper-accepted-at-ieee-icme-2025",
