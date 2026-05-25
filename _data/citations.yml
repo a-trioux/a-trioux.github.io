@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-29'
+  last_updated: '2026-05-25'
 papers:
   mHSM6DUAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: "Sch\xE9mas hybrides pour la transmission vid\xE9o avec tr\xE8s faible latence"
     year: '2023'
   mHSM6DUAAAAJ:8AbLer7MMksC:
-    citations: 11
+    citations: 12
     title: Subjective and objective quality assessment of the softcast video transmission scheme
     year: '2020'
   mHSM6DUAAAAJ:9vf0nzSNQJEC:
@@ -39,7 +39,7 @@ papers:
     year: '2021'
   mHSM6DUAAAAJ:D_sINldO8mEC:
     citations: 0
-    title: "Setting up an IoT lecture for Centrale Lille: A LoRa (WAN)\u2122-based labwork, from data transmission to data visualization"
+    title: "Setting up an IoT lecture for Centrale Lille: A LoRa(WAN)\u2122-based labwork, from data transmission to data visualization"
     year: '2022'
   mHSM6DUAAAAJ:Fu2w8maKXqMC:
     citations: 0
@@ -54,7 +54,7 @@ papers:
     title: "Performance of Linear Coding and Transmission in Low-Latency Computer Vision Offloading\u2013Supplementary Material"
     year: '2024'
   mHSM6DUAAAAJ:LPZeul_q3PIC:
-    citations: 5
+    citations: 6
     title: A comprehensive theoretical evaluation of the end-to-end performance of SoftCast-based linear video delivery schemes
     year: '2021'
   mHSM6DUAAAAJ:N5tVd3kTz84C:
@@ -78,7 +78,7 @@ papers:
     title: 'Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis'
     year: '2025'
   mHSM6DUAAAAJ:V3AGJWp-ZtQC:
-    citations: 14
+    citations: 15
     title: Towards zero-latency video transmission through frame extrapolation
     year: '2022'
   mHSM6DUAAAAJ:VOx2b1Wkg3QC:
@@ -122,11 +122,11 @@ papers:
     title: A Perceptual Study of the Decoding Process of the SoftCast Wireless Video Broadcast Scheme
     year: '2021'
   mHSM6DUAAAAJ:fQNAKQ3IYiAC:
-    citations: 1
+    citations: 2
     title: "\xC9tude et optimisation d'un syst\xE8me de vid\xE9otransmission conjoint source-canal bas\xE9 \"SoftCast\" (Study and optimization of a joint source-channel video-transmission system based \u2026"
     year: '2019'
   mHSM6DUAAAAJ:geHnlv5EZngC:
-    citations: 14
+    citations: 15
     title: Temporal information based GoP adaptation for linear video delivery schemes
     year: '2020'
   mHSM6DUAAAAJ:kRWSkSYxWN8C:
@@ -142,7 +142,7 @@ papers:
     title: "Vers une transmission vid\xE9o sans latence par l'extrapolation d'images"
     year: '2022'
   mHSM6DUAAAAJ:olpn-zPbct0C:
-    citations: 6
+    citations: 7
     title: 'Glass-to-glass delay reduction: encoding rate reduction vs. video frame extrapolation'
     year: '2023'
   mHSM6DUAAAAJ:q3oQSFYPqjQC:
