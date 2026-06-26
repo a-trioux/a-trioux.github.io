@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-26'
 papers:
   mHSM6DUAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -17,6 +17,10 @@ papers:
     citations: 0
     title: "Sch\xE9mas hybrides pour la transmission vid\xE9o avec tr\xE8s faible latence"
     year: '2023'
+  mHSM6DUAAAAJ:7T2F9Uy0os0C:
+    citations: 0
+    title: "Occupancy-Map\u2013Aware Metrics for 3D Gaussian Splatting: Toward More Reliable Objective Quality Evaluation"
+    year: '2026'
   mHSM6DUAAAAJ:8AbLer7MMksC:
     citations: 12
     title: Subjective and objective quality assessment of the softcast video transmission scheme
@@ -157,6 +161,10 @@ papers:
     citations: 0
     title: "Sur la faisabilit\xE9 d\u2019une compensation efficace de la latence en utilisant l\u2019extrapolation des images vid\xE9o"
     year: '2023'
+  mHSM6DUAAAAJ:tKAzc9rXhukC:
+    citations: 0
+    title: Subjective and Objective Quality Assessment of the SoftCast Video Transmission Scheme
+    year: Unknown Year
   mHSM6DUAAAAJ:tkaPQYYpVKoC:
     citations: 3
     title: 'Effect of latency on social presence in traditional video conference and VR conference: a comparative study'
