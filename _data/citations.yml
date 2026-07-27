@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-27'
 papers:
   mHSM6DUAAAAJ:1qzjygNMrQYC:
     citations: 0
     title: '[Invited tutorial] Soft Video Delivery: Getting seamless quality adaptation in mobile and latency-critical applications'
     year: '2022'
   mHSM6DUAAAAJ:1yQoGdGgb4wC:
-    citations: 2
+    citations: 3
     title: 'Blendshape Compression Techniques and Their Impact on Reconstructed Avatar Face Animation: A Subjective Study'
     year: '2025'
   mHSM6DUAAAAJ:5Ul4iDaHHb8C:
@@ -98,9 +98,17 @@ papers:
     title: "Optimisation du d\xE9codage par liste de vid\xE9os corrompues bas\xE9e sur une architecture CNN"
     year: '2023'
   mHSM6DUAAAAJ:Y5dfb0dijaUC:
-    citations: 0
+    citations: 1
     title: 'Mmetric++: An improved quality metric to judge the lossless compression of 3D meshes'
     year: '2023'
+  mHSM6DUAAAAJ:ZfRJV9d4-WMC:
+    citations: 0
+    title: 'From Virtual Live Entertainment to Real-Time Telepresence: Interoperable and Latency-Aware End-to-End Avatar Pipelines'
+    year: '2026'
+  mHSM6DUAAAAJ:_Re3VWB3Y0AC:
+    citations: 0
+    title: Indoor Panoramic Depth Estimation via Dual-Projection Feature Fusion and Structural Refinement
+    year: '2026'
   mHSM6DUAAAAJ:_Ybze24A_UAC:
     citations: 0
     title: 'Subjective Visual Quality Assessment of Compressed Light Field Images: Learning-based vs. Conventional Methods'
