@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-17'
 papers:
   mHSM6DUAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -69,16 +69,12 @@ papers:
     citations: 1
     title: Performance of Linear Coding and Transmission in Low-Latency Computer Vision Offloading
     year: '2024'
-  mHSM6DUAAAAJ:PR6Y55bgFSsC:
-    citations: 0
-    title: "Correction to \u201CCV-Cast: Computer Vision\u2013Oriented Linear Coding and Transmission\u201D"
-    year: '2025'
   mHSM6DUAAAAJ:SdhP9T11ey4C:
     citations: 0
     title: Improving Reconstruction Fidelity in Generative Face Video Coding using High-Frequency Shuttling
     year: '2024'
   mHSM6DUAAAAJ:UHK10RUVsp4C:
-    citations: 1
+    citations: 2
     title: 'Exploring Compression Strategies for Blendshape-Based Avatar Facial Animation: Subjective and Objective Analysis'
     year: '2025'
   mHSM6DUAAAAJ:V3AGJWp-ZtQC:
@@ -86,7 +82,7 @@ papers:
     title: Towards zero-latency video transmission through frame extrapolation
     year: '2022'
   mHSM6DUAAAAJ:VOx2b1Wkg3QC:
-    citations: 5
+    citations: 4
     title: A reduced complexity/side information preprocessing method for high quality softcast-based video delivery
     year: '2019'
   mHSM6DUAAAAJ:W5xh706n7nkC:
@@ -119,7 +115,7 @@ papers:
     year: '2023'
   mHSM6DUAAAAJ:dQ2og3OwTAUC:
     citations: 0
-    title: "Correction to \u201CCV-Cast: Computer Vision\u2013Oriented Linear Coding and Transmission\u201D"
+    title: 'CV-Cast: Computer Vision-Oriented Linear Coding and Transmission (vol 24, pg 1149, 2025)'
     year: '2025'
   mHSM6DUAAAAJ:eJXPG6dFmWUC:
     citations: 5
@@ -138,7 +134,7 @@ papers:
     title: "\xC9tude et optimisation d'un syst\xE8me de vid\xE9otransmission conjoint source-canal bas\xE9 \"SoftCast\" (Study and optimization of a joint source-channel video-transmission system based \u2026"
     year: '2019'
   mHSM6DUAAAAJ:geHnlv5EZngC:
-    citations: 15
+    citations: 14
     title: Temporal information based GoP adaptation for linear video delivery schemes
     year: '2020'
   mHSM6DUAAAAJ:kRWSkSYxWN8C:
@@ -177,3 +173,7 @@ papers:
     citations: 3
     title: 'Effect of latency on social presence in traditional video conference and VR conference: a comparative study'
     year: '2023'
+  mHSM6DUAAAAJ:tzM49s52ZIMC:
+    citations: 0
+    title: 'Surgilink-Mr: Bounded Planar Cutting and Bidirectional CT-Mesh Interaction for Surgical Mixed Reality Planning and Training'
+    year: '2026'
