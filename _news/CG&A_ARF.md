@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📘 Paper accepted in **IEEE Computer Graphics \& Applications, Special Issue on {3D} Web Technologies.**.🎉🎉🎉
+📘 Paper accepted in **IEEE Computer Graphics \& Applications, Special Issue on {3D} Web Technologies.**🎉🎉🎉
