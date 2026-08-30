@@ -175,7 +175,17 @@ cv:
         url: https://ieeexplore.ieee.org/document/10992572
         summary: "pp. 402–402."
         
-    "Tutorials and Invited Talks":        
+    "Tutorials and Invited Talks":      
+        - title: "From Static Representations to Animated (Digital) Humans: Motion Signals, Animation Streams, and Quality Assessment"
+        authors:
+          - "Anthony TRIOUX"
+          - "Giuseppe Valenzise"
+          - "Shiqi Wang"
+        publisher: "2026 IEEE 15th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), Shenzhen, China"
+        releaseDate: 2026
+        url: ""
+        summary: "Tutorial."
+        
       - title: "Ultra-Low Bitrate Video Conferencing with Generative Face Video Coding: From Research to Standardization"
         authors:
           - "Anthony TRIOUX"
