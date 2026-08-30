@@ -116,15 +116,15 @@ cv:
         url: https://ieeexplore.ieee.org/document/11417742
         summary: ""
 
-       - title: "From Virtual Live Entertainment to Real-Time Telepresence: Interoperable and Latency-Aware End-to-End Avatar Pipelines"
-    authors:
-      - "Anthony TRIOUX"
-      - "Jianlong Qin"
-      - "Jiarun Song"
-    publisher: "IEEE Computer Graphics and Applications"
-    releaseDate: 2026
-    url: https://ieeexplore.ieee.org/document/11609266
-    summary: "Special Issue on State of the Art in Computer Graphics and Applications in the Asia Pacific Region."
+      - title: "From Virtual Live Entertainment to Real-Time Telepresence: Interoperable and Latency-Aware End-to-End Avatar Pipelines"
+        authors:
+          - "Anthony TRIOUX"
+          - "Jianlong Qin"
+          - "Jiarun Song"
+        publisher: "IEEE Computer Graphics and Applications"
+        releaseDate: 2026
+        url: https://ieeexplore.ieee.org/document/11609266
+        summary: "Special Issue on State of the Art in Computer Graphics and Applications in the Asia Pacific Region."
 
       - title: "CV-Cast: Computer Vision–Oriented Linear Video Coding and Transmission"
         authors:
