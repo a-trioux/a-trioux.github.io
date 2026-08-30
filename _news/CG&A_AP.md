@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📘 Paper accepted in **IEEE Computer Graphics \& Applications, Special Issue on State of the Art in Computer Graphics and Applications in the Asia Pacific Region.**.🎉🎉🎉
+📘 Paper accepted in **IEEE Computer Graphics \& Applications, Special Issue on State of the Art in Computer Graphics and Applications in the Asia Pacific Region.**🎉🎉🎉
