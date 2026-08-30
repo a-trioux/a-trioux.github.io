@@ -12,7 +12,7 @@ profile:
     <p><strong>Xidian University</strong></p>
     <p>School of Telecommunications Engineering</p>
     <p>Xi'an, Shaanxi, China</p>
-    <p>Email: <a href="mailto:anthony_trioux@xidian(dot)edu(dot)cn">anthony_triouxATxidian(dot)edu(dot)cn</a></p>
+    <p>Email: <a href="mailto:anthony_trioux@xidian(dot)edu(dot)cn">anthony_trioux@xidian(dot)edu(dot)cn</a></p>
     
 
 selected_papers: true
