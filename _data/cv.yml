@@ -176,7 +176,7 @@ cv:
         summary: "pp. 402–402."
         
     "Tutorials and Invited Talks":      
-        - title: "From Static Representations to Animated (Digital) Humans: Motion Signals, Animation Streams, and Quality Assessment"
+      - title: "From Static Representations to Animated (Digital) Humans: Motion Signals, Animation Streams, and Quality Assessment"
         authors:
           - "Anthony TRIOUX"
           - "Giuseppe Valenzise"
