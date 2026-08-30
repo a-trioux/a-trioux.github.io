@@ -325,26 +325,54 @@ cv:
         keywords: "avatars, animation coding, representation formats, quality assessment"
 
     Projects:
-      - name: Xi’an International Cooperation Base on Key Technologies and Applications of Visual Media Communications
-        summary: "PI/Lead. International collaboration platform fostering joint research planning, exchanges, co-supervision, and co-authored outputs."
-        start_date: 2024.01
-        end_date: Present
-        highlights:
-          - "15+ participants across multiple Chinese cities and partners in Europe."
-      - name: National Foreign Expert Individual Program — “3D Media Representation and Compression for the Metaverse”
-        summary: "Foreign PI. R&D on 3D media representation/compression with active standardization participation."
-        start_date: 2024.01
-        end_date: 2025.12
-      - name: Shaanxi Provincial Foreign Expert Program — “Key Technologies for Dynamic Mesh Coding for MPEG”
-        summary: "Foreign PI. Technical investigation and engineering practice on V-DMC and MPEG-relevant 3D media."
-        start_date: 2021.10
-        end_date: 2023.12
-      - name: ANR Project — “Zero-Latency Linear Video Coding (ZL-LVC)”
-        summary: "Latency compensation and end-to-end trade-off analysis for LVC pipelines."
-        start_date: 2021.03
-        end_date: 2024.09
-      - name: ORIO European Project — “Observation of the peRformance of urban Infrastructure and mObility (ORIO)”
+Projects:
+  - name: National Natural Science Foundation of China (NSFC) General Program — “Animation Stream Compression and Quality Assessment for Large-Scale Digital Human Communications: Theory and Standardization”
+    summary: "PI. Research on efficient and scalable animation-stream representation and compression, quality assessment, and standardization support for large-scale digital human communications."
+    start_date: "2026.09"
+    end_date: "2030.12"
 
+  - name: National Natural Science Foundation of China (NSFC) Research Fund for International Scientists (RFIS) — “Research on Key Technologies and Standardization for Quality Evaluation of 3D Gaussian Splat Coding”
+    summary: "PI. Research on reliable quality evaluation methodologies for compressed 3D Gaussian Splatting, including objective assessment, evaluation protocols, and international standardization support."
+    start_date: "2026.09"
+    end_date: "2028.12"
+
+  - name: Xi’an International Cooperation Base on Key Technologies and Applications of Visual Media Communications
+    summary: "PI/Lead. Leadership of an international collaboration platform fostering joint research planning, exchanges, co-supervision, and co-authored outputs."
+    start_date: "2024.01"
+    end_date: "Present"
+    highlights:
+      - "15+ participants across multiple Chinese cities and partners in France, Italy, and Sweden, including IEEE Senior Members and IEEE Fellows."
+
+  - name: Xidian University Fundamental Research Funds — International Science and Technology Cooperation Program, Key Project — “Research on Key Technologies for Next-Generation Multimedia International Standards”
+    summary: "PI. Leading international research with Paris-Saclay University/CentraleSupélec and Télécom Paris on interoperable avatar representation, animation-stream compression, and 3D Gaussian Splatting compression and evaluation."
+    start_date: "2026.01"
+    end_date: "2026.11"
+
+  - name: Shaanxi Provincial Foreign Expert Service Program — Foreign Young Talent Scheme — “Key Technologies for Compression and Quality Assessment of Digital Human Animation Streams”
+    summary: "Foreign PI. Research on scalable coding of animation streams, together with animation-domain objective metrics and multidimensional subjective assessment."
+    start_date: "2026.01"
+    end_date: "2026.12"
+
+  - name: National Foreign Expert Individual Program — “3D Media Representation and Compression for the Metaverse”
+    summary: "Foreign PI. R&D on 3D media representation/compression with active standardization participation."
+    start_date: "2024.01"
+    end_date: "2025.12"
+
+  - name: Shaanxi Provincial Foreign Expert Program — “Key Technologies for Dynamic Mesh Coding for MPEG”
+    summary: "Foreign PI. Technical investigation and engineering practice on V-DMC and MPEG-relevant 3D media."
+    start_date: "2021.10"
+    end_date: "2023.12"
+
+  - name: ANR Project — “Zero-Latency Linear Video Coding (ZL-LVC)”
+    summary: "Latency compensation and end-to-end trade-off analysis for LVC pipelines."
+    start_date: "2021.03"
+    end_date: "2024.09"
+
+  - name: ORIO European Project — “Observation of the peRformance of urban Infrastructure and mObility (ORIO)”
+    summary: "Technical investigation on LVC pipelines for machine-to-machine communications."
+    start_date: "2021.03"
+    end_date: "2024.09"
+    
     #Education:
     #  - institution: Univ. Polytechnique Hauts-de-France (UPHF) / IEMN-DOAE (UMR CNRS 8520)
     #    location: Valenciennes, France
