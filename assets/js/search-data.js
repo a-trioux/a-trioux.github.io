@@ -84,10 +84,10 @@ ninja.data = [{
           title: '🎉 Two papers accepted at IEEE ICME 2026.',
           description: "",
           section: "News",},{id: "news-paper-accepted-in-ieee-computer-graphics-amp-amp-applications-special-issue-on-state-of-the-art-in-computer-graphics-and-applications-in-the-asia-pacific-region",
-          title: '📘 Paper accepted in IEEE Computer Graphics \&amp;amp;amp; Applications, Special Issue on State...',
+          title: '📘 Paper accepted in IEEE Computer Graphics &amp;amp;amp; Applications, Special Issue on State...',
           description: "",
           section: "News",},{id: "news-paper-accepted-in-ieee-computer-graphics-amp-amp-applications-special-issue-on-3d-web-technologies",
-          title: '📘 Paper accepted in IEEE Computer Graphics \&amp;amp;amp; Applications, Special Issue on {3D}...',
+          title: '📘 Paper accepted in IEEE Computer Graphics &amp;amp;amp; Applications, Special Issue on 3D...',
           description: "",
           section: "News",},{
       id: 'light-theme',
