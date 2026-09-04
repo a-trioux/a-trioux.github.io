@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-04'
 papers:
   mHSM6DUAAAAJ:1qzjygNMrQYC:
     citations: 0
@@ -129,6 +129,10 @@ papers:
     citations: 3
     title: A Perceptual Study of the Decoding Process of the SoftCast Wireless Video Broadcast Scheme
     year: '2021'
+  mHSM6DUAAAAJ:evX43VCCuoAC:
+    citations: 0
+    title: The MPEG Avatar Representation Format (ARF) an Interoperable Container and Animation Framework for Avatars
+    year: Unknown Year
   mHSM6DUAAAAJ:fQNAKQ3IYiAC:
     citations: 2
     title: "\xC9tude et optimisation d'un syst\xE8me de vid\xE9otransmission conjoint source-canal bas\xE9 \"SoftCast\" (Study and optimization of a joint source-channel video-transmission system based \u2026"
@@ -165,10 +169,6 @@ papers:
     citations: 0
     title: "Sur la faisabilit\xE9 d\u2019une compensation efficace de la latence en utilisant l\u2019extrapolation des images vid\xE9o"
     year: '2023'
-  mHSM6DUAAAAJ:tKAzc9rXhukC:
-    citations: 0
-    title: Subjective and Objective Quality Assessment of the SoftCast Video Transmission Scheme
-    year: Unknown Year
   mHSM6DUAAAAJ:tkaPQYYpVKoC:
     citations: 3
     title: 'Effect of latency on social presence in traditional video conference and VR conference: a comparative study'
