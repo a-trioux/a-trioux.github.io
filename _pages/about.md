@@ -36,12 +36,12 @@ Anthony TRIOUX (Senior Member, IEEE) received the Ph.D. degree in Electronics an
 He was an Assistant Professor at Centrale Lille (2019–2020) and a tenured Associate Professor at UPHF/INSA Hauts-de-France (2020–2022). 
 He is currently an Associate Professor at Xidian University, China.
 
-Anthony is actively involved in international standardization, contributing to the Moving Picture Experts Group (MPEG) in ISO/IEC JTC 1/SC 29 and to the Joint Video Experts Team (JVET) of ISO/IEC and ITU-T. 
-He currently serves as Co-Chair (with Thomas Stockhammer) of the Ad Hoc Group on Animation Data Compression, EE Coordinator/Task Leader for MPEG-I Part 39 (Avatar Representation Format, ARF), and JEE-6.8 Coordinator/Task Leader on Gaussian Splat Coding common test conditions and evaluation.
-
 His research interests include multimedia communications, 3D media and avatar compression, Generative Face Video Coding (GFVC), 3D Gaussian Splatting (3DGS), and reliable / latency-critical video delivery. 
 He has delivered multiple tutorials and invited talks (e.g., GFVC and avatar standardization) at venues including IEEE ICME, ICECS, EUSIPCO, and VCIP. 
 He serves as Associate Editor of *EURASIP Signal Processing: Image Communication* and *Springer Journal on Image and Video Processing*, and he is an elected member of IEEE SPS MMSP-TC and IEEE CAS MSA-TC/VSPC-TC.
+
+Anthony is actively involved in international standardization, contributing to the Moving Picture Experts Group (MPEG) in ISO/IEC JTC 1/SC 29 and to the Joint Video Experts Team (JVET) of ISO/IEC and ITU-T. 
+He currently serves as Co-Chair (with Thomas Stockhammer) of the Ad Hoc Group on Animation Data Compression, EE Coordinator/Task Leader for MPEG-I Part 39 (Avatar Representation Format, ARF), and JEE-6.8 Coordinator/Task Leader on Gaussian Splat Coding common test conditions and evaluation.
 
 ---
 
