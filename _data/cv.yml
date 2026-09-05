@@ -335,7 +335,7 @@ cv:
         keywords: "avatars, animation coding, representation formats, quality assessment"
 
     Projects:
-      - name: "National Natural Science Foundation of China (NSFC) General Program (面上基金) — Animation Stream Compression and Quality Assessment for Large-Scale Digital Human Communications: Theory and Standardization"
+      - name: "National Natural Science Foundation of China (NSFC) General Program — Animation Stream Compression and Quality Assessment for Large-Scale Digital Human Communications: Theory and Standardization"
         summary: "PI. Research on efficient and scalable animation-stream representation and compression, quality assessment, and standardization support for large-scale digital human communications."
     
       - name: "National Natural Science Foundation of China (NSFC) Research Fund for International Scientists (RFIS) — Research on Key Technologies and Standardization for Quality Evaluation of 3D Gaussian Splat Coding"
